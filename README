@@ -1,0 +1,1 @@
+questo programmino dovrebbe avere lo scopo (stupidissimo) di, partendo da una lista di file immagine, creare un file XML che serve ad ubuntu per gestirli come sfondi dinamici. a quanto pare qt creator non me lo crea nel modo giusto o ho tralasciato qualche pacchetto. fatto stà che non mi dà nessun errore in build ma quando tento di genera stò file mi và in segmentation fault
